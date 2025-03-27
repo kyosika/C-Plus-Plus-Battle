@@ -45,7 +45,7 @@ int main(){
       
            std::cout << "You go first! You got two!" << std::endl;
             bool enemyTurn = false;
-        std::cout << "You go first! You got one!" << std::endl;
+    
         std::cout << "Enter a attack name: " << std::endl;
         std::cin.ignore();
         std::getline(std::cin, attk);
