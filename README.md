@@ -11,4 +11,4 @@ Thank you! Contributors out there are all welcome to join this project! I would 
 
 
   Thank you!
-  Even if you're just visiting just alone that means a lot to me!
+  Even if you're just visiting, just alone that means a lot to me!
